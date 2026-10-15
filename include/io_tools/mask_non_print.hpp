@@ -9,6 +9,7 @@
 #ifndef _io_tools__mask_non_print__hpp_INCLUDED_
 #define _io_tools__mask_non_print__hpp_INCLUDED_
 
+#include <cstdint>
 #include <string>
 #include <sstream>
 
